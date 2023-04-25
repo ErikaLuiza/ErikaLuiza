@@ -1,16 +1,18 @@
-### Hi there 👋
+Repositório feito para o projeto de banco de dados voltado para a ideia de registrar os livros da biblioteca
 
-<!--
-**ErikaLuiza/ErikaLuiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Alunos no projeto:
+Anderson
+Erika
+Marcos
+Paulo
+Vitor
 
-Here are some ideas to get you started:
+Objetivo do projeto: 
+Informar e ter controle dos livros disponíveis para empréstimo na biblioteca além de qual usuário pegou qual livro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Funções:
+Registro de saída e entrada dos livros da biblioteca
+Registro de usuários(professores, alunos, funcionários)
+Registro de livros(autor, edição, ano, editora, nome
+Acessibilidade para saber qual livro tem disponível
+
