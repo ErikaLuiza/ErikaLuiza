@@ -12,10 +12,12 @@ Vitor de Jesus dos Santos
 Informar e ter controle dos livros disponíveis para empréstimo na biblioteca além de qual usuário pegou qual livro
 
 ## Funções:
+* Login e senha para o funcionário que ficará responsavel pelos emprestimos:
+* Para que sejam feitos registros de qual aluno pegou um livro, qual livro foi pego, em qual data o livro foi emprestado e em qual data ele deverá ser devolvido será necessário a criação de um cadastro tanto para os alunos quanto para funcionários da escola que também possam 
 * Registro de saída e entrada dos livros da biblioteca:
 * 
 * Registro de usuários(professores, alunos, funcionários)
 * Registro de livros(autor, edição, ano, editora, nome, categoria)
 * Acessibilidade para saber qual livro tem disponível
-* Login e senha para o funcionário que ficará responsavel pelos emprestimos
+* 
 * 
